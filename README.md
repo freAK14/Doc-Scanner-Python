@@ -6,7 +6,7 @@ Document Scanner using OpenCV
 * Run the script 
 
 ```
-python docscanner.py
+python final_scanner.py
 ```
 * Select the image you want to get scanned. 
 
